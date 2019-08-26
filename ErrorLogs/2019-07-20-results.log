@@ -1,0 +1,236 @@
+2019-07-20 11:54:31 [Logs!] error: ReferenceError: Admin is not defined
+    at _callee$ (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:88:33)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (C:\Users\HP\Desktop\skillclique\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at register (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:148:29)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:335:12)
+
+2019-07-20 12:30:12 [Logs!] error: ReferenceError: tunjiakala20 is not defined
+    at _callee$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:61:88)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:28:13
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+2019-07-20 12:30:13 [Logs!] error: TypeError: Cannot read property 'trim' of undefined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:26:51)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:36:54 [Logs!] error: ReferenceError: tunjiakala20 is not defined
+    at _callee$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:61:88)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:28:13
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+2019-07-20 12:36:54 [Logs!] error: TypeError: Cannot read property 'trim' of undefined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:26:51)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:42:25 [Logs!] error: ReferenceError: tunjiakala20 is not defined
+    at _callee$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:61:88)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:28:13
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+2019-07-20 12:42:25 [Logs!] error: TypeError: Cannot read property 'trim' of undefined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:26:51)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:47:29 [Logs!] error: ReferenceError: tunjiakala20 is not defined
+    at _callee$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:61:88)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:28:13
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+2019-07-20 12:47:30 [Logs!] error: TypeError: Cannot read property 'trim' of undefined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:26:51)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:50:51 [Logs!] error: ReferenceError: tunjiakala20 is not defined
+    at _callee$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:61:88)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:28:13
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+2019-07-20 12:50:52 [Logs!] error: TypeError: Cannot read property 'trim' of undefined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:26:51)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:53:26 [Logs!] error: TypeError: Cannot read property 'trim' of undefined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:26:51)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:57:48 [Logs!] error: ValidationError: password: Path `password` is required.
+    at new ValidationError (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\error\validation.js:30:11)
+    at model.Document.invalidate (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2292:32)
+    at p.doValidate.skipSchemaValidators (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2141:17)
+    at C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\schematype.js:1037:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 12:58:31 [Logs!] error: ReferenceError: saltRounds is not defined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Teacher.js:27:59)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 14:02:59 [Logs!] error: ReferenceError: checkTokenacher is not defined
+    at _callee3$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:132:14)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (C:\Users\HP\Desktop\skillclique\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at confirmation (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:288:30)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:335:12)
+
+2019-07-20 14:03:59 [Logs!] error: TypeError: _Teacher2.default.save is not a function
+    at _callee3$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:133:22)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (C:\Users\HP\Desktop\skillclique\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at confirmation (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:288:30)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:335:12)
+
+2019-07-20 14:09:58 [Logs!] error: TypeError: _Teacher2.default.save is not a function
+    at _callee3$ (C:/Users/HP/Desktop/skillclique/controllers/Teachers/TeacherController.js:133:22)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (C:\Users\HP\Desktop\skillclique\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at confirmation (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:289:30)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:335:12)
+
+2019-07-20 14:27:34 [Logs!] error: ReferenceError: Wallet is not defined
+    at _callee3$ (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:262:33)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (C:\Users\HP\Desktop\skillclique\node_modules\core-js\library\modules\_export.js:36:28)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at confirmation (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:298:30)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\HP\Desktop\skillclique\node_modules\express\lib\router\index.js:335:12)
+
+2019-07-20 15:26:19 [Logs!] error: ReferenceError: bcrypt is not defined
+    at _callee3$ (C:\Users\HP\Desktop\skillclique\controllers\Teachers\TeacherController.js:247:33)
+    at tryCatch (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (C:\Users\HP\Desktop\skillclique\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at C:\Users\HP\Desktop\skillclique\node_modules\babel-runtime\helpers\asyncToGenerator.js:28:13
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+2019-07-20 16:06:24 [Logs!] error: ValidationError: dob: Path `dob` is required., state: Path `state` is required., country: Path `country` is required.
+    at new ValidationError (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\error\validation.js:30:11)
+    at model.Document.invalidate (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2292:32)
+    at p.doValidate.skipSchemaValidators (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2141:17)
+    at C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\schematype.js:1037:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 16:12:00 [Logs!] error: ValidationError: state: Path `state` is required., country: Path `country` is required.
+    at new ValidationError (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\error\validation.js:30:11)
+    at model.Document.invalidate (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2292:32)
+    at p.doValidate.skipSchemaValidators (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2141:17)
+    at C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\schematype.js:1037:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 16:20:19 [Logs!] error: ValidationError: username: can't be blank
+    at new ValidationError (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\error\validation.js:30:11)
+    at model.Document.invalidate (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2292:32)
+    at p.doValidate.skipSchemaValidators (C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\document.js:2141:17)
+    at C:\Users\HP\Desktop\skillclique\node_modules\mongoose\lib\schematype.js:1037:9
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+2019-07-20 16:21:13 [Logs!] error: ReferenceError: saltRounds is not defined
+    at model.<anonymous> (C:/Users/HP/Desktop/skillclique/models/Applicant.js:28:59)
+    at callMiddlewareFunction (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:474:23)
+    at model.next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:58:7)
+    at _next (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:106:10)
+    at process.nextTick (C:\Users\HP\Desktop\skillclique\node_modules\kareem\index.js:499:38)
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
